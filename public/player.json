@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "rating": 4.8,
+      "cover_photo": "https://i.ibb.co.com/z7NCmB7/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.jpg",
+      "profile_img": "https://i.ibb.co.com/DGjtKRZ/virat-kohli.jpg",
+      "nationality": "Indian",
+      "identity": "batting",
+      "batting_style": "Right-hand bat",
+      "balling_style": "Right-arm medium",
+      "price": 1800
+    },
+    {
+      "id": 2,
+      "name": "Shakib Al Hasan",
+      "rating": 4.6,
+      "cover_photo": "https://i.ibb.co.com/4MBScjb/shakib-al-hasan-1200g.webp",
+      "profile_img": "https://i.ibb.co.com/37jJXNv/Shakib-Al-Hasan.jpg",
+      "nationality": "Bangladeshi",
+      "identity": "all-rounder",
+      "batting_style": "Left-hand bat",
+      "balling_style": "Left-arm orthodox",
+      "price": 1500
+    },
+    {
+      "id": 3,
+      "name": "Tamim Iqbal",
+      "rating": 4.5,
+      "cover_photo": "https://i.ibb.co.com/T4DWk2k/Tamim-Iqbal.webp",
+      "profile_img": "https://i.ibb.co.com/Zhp4yN3/Tamim-Iqbal-theincap.webp",
+      "nationality": "Bangladeshi",
+      "identity": "batting",
+      "batting_style": "Left-hand bat",
+      "balling_style": "Right-arm offbreak",
+      "price": 1600
+    },
+    {
+      "id": 4,
+      "name": "Mahmudullah",
+      "rating": 4.2,
+      "cover_photo": "https://i.ibb.co.com/hgJ4ZGL/b39637def8fed6697e3aa0bdc02e4786636b3174a6460db1.jpg",
+      "profile_img": "https://i.ibb.co.com/bbZxj2q/217762-148.jpg",
+      "nationality": "Bangladeshi",
+      "identity": "all-rounder",
+      "batting_style": "Right-hand bat",
+      "balling_style": "Right-arm offbreak",
+      "price": 1300
+    },
+    {
+      "id": 5,
+      "name": "Mehedi Hasan Miraz",
+      "rating": 4.3,
+      "cover_photo": "https://i.ibb.co.com/R0xKMSK/698227-01-02.jpg",
+      "profile_img": "https://i.ibb.co.com/sFTLkg0/8-1-20230124142552.jpg",
+      "nationality": "Bangladeshi",
+      "identity": "balling",
+      "batting_style": "Right-hand bat",
+      "balling_style": "Right-arm offbreak",
+      "price": 1200
+    },
+    {
+      "id": 6,
+      "name": "Mushfiqur Rahim",
+      "rating": 4.4,
+      "cover_photo": "https://i.ibb.co.com/VWPPbtB/85972901.webp",
+      "profile_img": "https://i.ibb.co.com/G2GQMGX/m4je71sg-mushfiqur-rahim-afp-625x300-20-May-22.jpg",
+      "nationality": "Bangladeshi",
+      "identity": "batting",
+      "batting_style": "Right-hand bat",
+      "balling_style": "Right-arm medium",
+      "price": 1400
+    }
+  ]
+  
