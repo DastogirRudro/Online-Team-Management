@@ -3,10 +3,10 @@ import React from 'react';
 const Banner = ({handleCoin}) => {
     return (
         <div>
-            <div style={{ backgroundImage: "url('../../assets/bg-shadow.png')",backgroundSize:"cover", backgroundRepeat:"no-repeat" }}
+            <div style={{ backgroundImage: "url('https://i.ibb.co.com/XW6tFT3/bg-shadow.png')",backgroundSize:"cover", backgroundRepeat:"no-repeat" }}
                  className='flex items-center justify-center bg-black flex-col gap-4 py-12 rounded-xl'>
                 <div>
-                    <img src="../../assets/banner-main.png" alt="" />
+                    <img src="https://i.ibb.co.com/mcJp617/banner-main.png" alt="" />
                 </div> 
                 <div className='text-center'>
                     <h1 className='text-3xl mb-2 font-semibold text-white'>Assemble Your Ultimate Dream 11 Cricket Team</h1>

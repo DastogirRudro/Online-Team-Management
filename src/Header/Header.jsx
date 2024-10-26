@@ -4,7 +4,7 @@ const Header = ({coin}) => {
     return (
         <div className='flex justify-between items-center mt-3 mb-10'>
             <div >
-                <img src="../../assets/logo.png" alt="" />
+                <img src="https://i.ibb.co.com/nQj5R8w/logo.png" alt="" />
             </div>
             <div>
                 <ul className='flex justify-between items-center gap-8'>

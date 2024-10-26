@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <div className='mt-14 relative'>
             <div className='p-1 max-w-6xl mx-auto rounded-xl border-1 relative bg-slate-100 z-20 '>
-                <div style={{ backgroundImage: "url('../../assets/bg-shadow.png')", backgroundSize: "cover" }} className='max-w-6xl  mx-auto flex flex-col gap-1 items-center justify-center py-20 rounded-xl relative z-20'>
+                <div style={{ backgroundImage: "url('https://i.ibb.co.com/XW6tFT3/bg-shadow.png')", backgroundSize: "cover" }} className='max-w-6xl  mx-auto flex flex-col gap-1 items-center justify-center py-20 rounded-xl relative z-20'>
 
                     <h1 className='text-[#131313] font-bold text-2xl'>Subscribe to our Newsletter</h1>
                     <p className='text-[#131313B3] text-lg font-semibold text-center'>Get the latest updates and news right in your inbox!</p>
@@ -17,7 +17,7 @@ const Footer = () => {
 
             <div className='bg-[#06091A] w-full pt-40 -z-20 absolute top-44'>
                 <div className='flex justify-center'>
-                    <img src="../../assets/logo-footer.png" alt="" />
+                    <img src="https://i.ibb.co.com/cbVQrXN/logo-footer.png" alt="" />
                 </div>
                 <div className='max-w-6xl mx-auto md:flex justify-between border-b-2 border-gray-400 py-10'>
                     <div className='max-w-[291px]'>
