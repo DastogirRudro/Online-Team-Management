@@ -1,4 +1,4 @@
-## BPL- Dream 11 
+## My Cricket Team 
  https://capable-bienenstitch-1b9212.netlify.app/
 # Description
 This is a very interesting and meaningful Project.You can select many player as you need. Here we use use many technolog.This is mainly react based project instead of this we use Java Script Tailwind CSS and many more.We also use toastify for best Notification section.
