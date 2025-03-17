@@ -3,7 +3,7 @@
 # Description
 This is a very interesting and meaningful Project.You can select many player as you need. Here i used many technology.This is mainly a react based project instead of this i use Java Script Tailwind CSS and many more. Here i also use toastify for best Notification section.
 # Technology Used
-I used many texhnology such as: React,Javascript,Tailwind CSS,HTML,Toastify,Some of ES6 feature,Handle json file and many more.
+ React,Javascript,Tailwind CSS,HTML,Toastify,Some of ES6 feature,Handle json file and many more.
 # 3 key feature of this project
 - A person can select her best player by clicking a choose button.
 - Here for Notification i used react Toastify,This project is very colorful and well design.
